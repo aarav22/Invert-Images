@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ImageSaver
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ convertToNegative(edu.duke.ImageResource)
+comment2.params=inImage
+comment2.target=edu.duke.ImageResource\ convertToGray(edu.duke.ImageResource)
+comment3.params=
+comment3.target=void\ selectAndConvert()
+comment4.params=
+comment4.target=void\ doSave()
+comment5.params=
+comment5.target=void\ testConvertToNegativeImage()
+comment6.params=
+comment6.target=void\ testConvertToGrayImage()
+numComments=7
